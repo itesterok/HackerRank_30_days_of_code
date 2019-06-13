@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Day 1: Data Types.
  *
- * <p>Link: https://www.hackerrank.com/challenges/30-data-types/problem.
+ * <p>Link: {@link https://www.hackerrank.com/challenges/30-data-types/problem}.
  *
  * <p>Task: Task Complete the code in the editor below. The variables , , and are already declared
  * and initialized for you. You must:
